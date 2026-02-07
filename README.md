@@ -1,2 +1,1 @@
-# My-Class-App
-This app is mainly to monitor, information for students, parents, and teachers
+My-Class-App is a school management app to monitor and share information for students, parents, and teachers. It centralizes courses, schedules, assignments, grades, announcements, and file uploads so every stakeholder stays informed.
